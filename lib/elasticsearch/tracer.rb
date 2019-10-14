@@ -1,5 +1,3 @@
-require 'elasticsearch'
-
 require "elasticsearch/tracer/version"
 require "elasticsearch/tracer/transport"
 
